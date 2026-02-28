@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Persona Creation"
+  short_description: "Create AI persona setting documents in the required template"
+  default_prompt: "Create a complete AI persona setting document from user context, ask for missing fields, then output in the exact template format."
