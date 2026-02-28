@@ -1,6 +1,6 @@
 # ZZ_OnRoad
 
-这是一个 Codex skills 仓库，用于存放可复用的技能包与相关配置。
+这是一个skills 仓库，用于存放可复用的技能包与相关配置。
 
 **Skills**
 1. `agent-persona-creation`：根据中文“人格设定模版”和“三层认知架构”生成或完善 AI 角色设定文档。路径：`skills/agent-persona-creation`
